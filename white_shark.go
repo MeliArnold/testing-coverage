@@ -15,6 +15,8 @@ var (
 	ErrTunaIsNil = errors.New("can not hunt, tuna is nil")
 )
 
+// Tuna is a type of prey for the WhiteShark
+
 // NewWhiteShark creates a new WhiteShark
 func NewWhiteShark(hungry bool, tired bool, speed float64) (w *WhiteShark) {
 	w = &WhiteShark{

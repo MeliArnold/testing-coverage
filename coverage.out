@@ -1,0 +1,12 @@
+mode: set
+testdoubles/tuna.go:4.52,10.2 2 1
+testdoubles/white_shark.go:21.76,28.2 2 1
+testdoubles/white_shark.go:40.51,42.17 1 1
+testdoubles/white_shark.go:42.17,45.3 2 1
+testdoubles/white_shark.go:46.2,46.15 1 1
+testdoubles/white_shark.go:46.15,49.3 2 1
+testdoubles/white_shark.go:50.2,50.13 1 1
+testdoubles/white_shark.go:50.13,53.3 2 1
+testdoubles/white_shark.go:54.2,54.26 1 1
+testdoubles/white_shark.go:54.26,57.3 2 1
+testdoubles/white_shark.go:60.2,62.8 3 1
